@@ -14,6 +14,7 @@ import base64
 
 # Título de la Aplicación
 st.title('Gestión de Redes de Contactos de LinkedIn')
+st.header('Creado por: jahoperi')
 
 # Carga de Datos
 st.sidebar.header('Carga de Datos')
